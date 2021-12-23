@@ -1,0 +1,21 @@
+﻿No.,OBJ_Name,OBJ_INFO,OBJ_Weight
+0,Soil,일반 블록,5P
+1,Lithium,리튬,12P
+2,IronStone,철광석,7P
+3,Chalcopyrite,황동석,18P
+4,Quartz,석영,13P
+5,Bauxite,보크사이트 (철반석),20P
+6,Titanite,티타나이트 (설석),15P
+7,Grahpite,그라파이트 (석탄),5P
+8,Diamond,다이아몬드,30P
+9,Oxygen,산소,0.2P
+10,Energy,에너지,0.5P
+11,OxygenCapsule,아이템 산소 캡슐,2P
+12,EnergyBattery,아이템 에너지 배터리,5P
+13,Iron,철,14P
+14,Copper,구리,14P
+15,Glass,유리,10P
+16,Aluminum,알루미늄,20P
+17,Titanium,티타늄,25P
+18,Carbon,탄소,17P
+19,Graphere,그래핀,0.8P

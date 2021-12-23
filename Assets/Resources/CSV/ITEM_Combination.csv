@@ -1,0 +1,28 @@
+﻿No.,OBJ,OBJ_Name,Materials,Buil_Time,OBJ_INFO,OBJ_Weight
+1,Base_GG,Base 1,유리 22&철 5&구리 3,5,유리지붕+유리벽,150P
+2,Base_GT,Base 2,유리 10&티타늄 12&철 5&구리 3,5,유리지붕+티타늄벽,200P
+3,Base_TG,Base 3,티타늄 10&유리 12&철 5&구리 3,5,티타늄지붕+유리벽,200P
+4,Base_TT,Base 4,티타늄 22&철 5&구리 3,5,티타늄지붕+티타늄벽,150P
+5,Garage,Garage,유리 8&티타늄 14&철 5&구리 3,5,차고,150P
+6,platform,Platform,티타늄 8&철 4,5,기지 기반 ,30P
+7,Aisle_T,Straight Aisle 1,티타늄 10&구리 2,3,일자형 티타늄 통로,70P
+8,Aisle_G,Straight Aisle 2,유리 10&구리 2,3,일자형 유리 통로,50P
+9,Corss_1,Cross Aisle 1,티타늄 10&구리 2,3,십자형 티타늄 통로,70P
+10,Corss_2,Cross Aisle 2,유리 10&구리 2,3,십자형 유리 통로,50P
+11,Half_1,Half Cross Aisle 1,티타늄 10&구리 2,3,반십자형 티타늄 통로,70P
+12,Half_2,Half Cross Aisle 2,유리 10&구리 2,3,반십자형 유리 통로,50P
+13,Vertical_1,Vertical Aisle 1,티타늄 10&구리 2,3,수직형 티타늄 통로,70P
+14,Verticla_2,Vertical Aisle 2,유리 10&구리 2,3,수직형 유리 통로,50P
+15,Smelt,Smelting,리튬 4,3,제련기,30P
+16,Work_Surface,Work Table,철 2&리튬 2,3,작업대,30P
+17,Printer,3D Printer,티타늄 2&리튬 2,3,3D 프린터,45P
+18,research,Reasearch Table,철 2&리튬 2,3,연구대,30P
+19,Food_Supply,Food Supply,알루미늄 2&리튬 2,3,식품 가공기,30P
+20,Battery,Battery,구리 2&리튬 2,3,배터리,45P
+21,Oxygen_Generatior,Oxygen Generatior,산소 4&구리 2&리튬 2,3,산소 발생기,45P
+22,Vehicle_Manufacturer,Vehicle Manufacturer,알루미늄 2&구리 3&리튬 3,3,차량 제작기,100P
+23,Solar_Panel,Solar panel,구리 1&리튬 1,2,태양광 패널,30P
+24,Wind_Turbine,Wind turbine,알루미늄 1&리튬 1,2,풍력 터빈,20P
+25,Coal_Generator,Coal generator,석탄 1&리튬 1,2,석탄 발전기,45P
+26,Geothermal_Generator,Geothermal Generator,석탄 2&리튬 2,2,지열 발전기,45P
+27,Electric_Power,Power Transmitte,구리 1&리튬 1,2,전력 송신기,45P
